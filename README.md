@@ -1,4 +1,7 @@
 # 🚖 Ride Cancellation Prediction & Revenue Impact Analysis | Predictive Analytics in Ride-Hailing
+<p align="center">
+  <img src="ride_cancellation_pred.png" width="100%">
+</p>
 
 # EXECUTIVE SUMMARY
 Analyzed ride-level data to identify key drivers of cancellations and quantify their impact on revenue and operational efficiency. Combined SQL-based analysis with a predictive model to detect high-risk rides and support proactive interventions.
